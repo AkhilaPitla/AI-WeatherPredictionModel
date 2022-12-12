@@ -1,4 +1,4 @@
-# AI-WeatherPredictionModel\
+# AI-WeatherPredictionModel
 #INTRODUCTION:
 
 The science of forecasting the weather is crucial. Accurate forecasting can lessen property damage and save lives. The ability to track the ideal time to plant or assist farmers in protecting their crops makes it essential for agriculture as well.
@@ -26,7 +26,7 @@ PIPELINE FOR QUICK START:
 •	Train Models We used Decision Tree Classifier, Logistic Regression and Support Vector Classifier machine learning algorithms to train the data set.
 
 
-#PROJECT OBJECTIVES:\
+#PROJECT OBJECTIVES:
 
 •	In this project, we are predicting the weather by training a dataset with several machine learning algorithms and evaluating the performance of each model.
 •	The model that we will create will be based on historical usage rates. 
@@ -64,7 +64,11 @@ A statistical method known as logistic regression is used to forecast the likeli
 
 In the image below, you can find the accuracy and evaluation of the logistic regression model with our dataset.
 
- 
+  Accuracy: 81.69999999999999 %
+The root mean square error is :  0.6544867736464346
+The R2 Score is :  -0.2247191011235954
+The Mean Absolute error is :  0.1834862385321101
+
 
 B.	Decision Tree:
 One of the well-known and effective supervised machine learning methods that may be applied to classification and regression issues is the decision tree. Decision rules that were taken from the training data formed the basis of the model. When solving a regression problem, the model substitutes the value for the class and utilizes the mean squared error as a measure of judgment accuracy.
@@ -76,7 +80,10 @@ There are three different sorts of nodes in this tree-structured classifier. The
 
 In the image below, you can find the accuracy and evaluation of the logistic regression model with our dataset. We can observe that this model gives us 100% accuracy.
 
- 
+Accuracy: 100.0 %
+The root mean square error is :  0.0
+The R2 Score is :  1.0
+The Mean Absolute error is :  0.0
 
 C.	Support Vector Classifier:
 A supervised machine learning model called a support vector machine (SVM) employs classification techniques to solve two-group classification problems. An SVM model can classify new text after being given sets of labeled training data for each category.
@@ -88,17 +95,10 @@ SVM categorizes data points even when they are not otherwise linearly separable 
 
 In the image below, you can find the accuracy and evaluation of the logistic regression model with our dataset.
 
-
-
-
-
-
-
-
-
-
-
-
+Accuracy: 88.1 %
+The root mean square error is :  0.5876641714748363
+The R2 Score is :  0.203932584269663
+The Mean Absolute error is :  0.11926605504587157
 
 
 Conclusion:
