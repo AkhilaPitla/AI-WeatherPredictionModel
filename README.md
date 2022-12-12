@@ -1,5 +1,5 @@
 # AI-WeatherPredictionModel\
-INTRODUCTION:
+#INTRODUCTION:
 
 The science of forecasting the weather is crucial. Accurate forecasting can lessen property damage and save lives. The ability to track the ideal time to plant or assist farmers in protecting their crops makes it essential for agriculture as well.
 
@@ -26,7 +26,7 @@ PIPELINE FOR QUICK START:
 •	Train Models We used Decision Tree Classifier, Logistic Regression and Support Vector Classifier machine learning algorithms to train the data set.
 
 
-PROJECT OBJECTIVES:
+#PROJECT OBJECTIVES:\
 
 •	In this project, we are predicting the weather by training a dataset with several machine learning algorithms and evaluating the performance of each model.
 •	The model that we will create will be based on historical usage rates. 
@@ -88,7 +88,8 @@ SVM categorizes data points even when they are not otherwise linearly separable 
 
 In the image below, you can find the accuracy and evaluation of the logistic regression model with our dataset.
 
- 
+
+
 
 
 
